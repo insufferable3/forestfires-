@@ -1,2 +1,3 @@
-forest fire~
-a prediction model
+# forest fire 
+
+A machine learning model 
